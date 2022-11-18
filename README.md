@@ -19,7 +19,7 @@ Additional library named GetX and Hive will be required if you try to run this a
 ![flutter1](./images/flutter1.png)
   
 ***
-* You can route home and dictionary this route is named route through the GetX.
+* You can route home and dictionary. it is named route through the GetX.
 ![flutter2](./images/flutter2.png)
   
 ***
@@ -35,7 +35,7 @@ Additional library named GetX and Hive will be required if you try to run this a
 ![flutter5](./images/flutter5.png)
   
 ***
-* Rotate the items with next button.
+* Rotate the items with next button. rotate items randomly with no replacement. once it's done, repeat the process. 
 ![flutter6](./images/flutter6.png)
   
 ***
@@ -46,3 +46,20 @@ Additional library named GetX and Hive will be required if you try to run this a
 * You can add some items to normal-type-dictionary or hard-type-dictionary. this will help you to rotate some items you want to focus.
 ![flutter8](./images/flutter8.png)
   
+***
+* Touching by the buttons appeared top of items inside the dictionary, you can move to one of them.
+![flutter9](./images/flutter9.png)
+  
+***
+* Deleting item on hard-type-dicionary will not effet base-type-dictionary.
+![flutter10](./images/flutter10.png)
+  
+***
+* Rotate items and debug console.
+![flutter11](./images/flutter11.png)
+  
+***
+* Deleting item from the base-type-dictionary will effect another dictionary type.
+![flutter12](./images/flutter12.png)
+
+
