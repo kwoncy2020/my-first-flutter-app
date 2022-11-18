@@ -8,4 +8,4 @@ Additional library named GetX and Hive will be required if you try to run this a
 
 ***
 * first of all you may face below error. you can expand the size of storage on the android emulator.
-! [less available storage cause error](./images/flutter android emulator error(no install space on the device).png)
+![less available storage cause error](./images/flutter android emulator error(no install space on the device).png)
